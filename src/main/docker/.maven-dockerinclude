@@ -1,0 +1,2 @@
+@project.build.finalName@.jar
+Dockerfile
